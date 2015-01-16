@@ -7,7 +7,7 @@ Purposes:
 - (base) check for arbitrary size for block matrices before calculating product;
 - (base) check for non-zero sized matrices input;+
 - (added) use Factory Method pattern; +?
-- (added) create mutators and accessors (setters and getters); +
+- (added) getters and setters; +
 - (added) matrix output method does not uses 'sout', just converts Matrix to String;+
 - (added) using StringBuilder;+
 - (added) all text in english;+
